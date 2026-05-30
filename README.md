@@ -174,4 +174,6 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## Contact
 
 For questions, please open an issue on this repository or contact the corresponding author at 235533@stu.hebut.edu.cn.
+
+Repository: https://github.com/LittleKid510/eeg-emotion-recognition
 ```
